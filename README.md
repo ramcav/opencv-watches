@@ -7,7 +7,7 @@ This is a simple clock made with OpenCV which replicates the Royal Oak chronogra
 ### Inspiration
 
 <div align="center">
-  <img src="inspiration/inspiration/ap/ap_inspo.webp" alt="Clock Preview" width="400"/>
+  <img src="inspiration/inspiration/ap/ap_inspo.png" alt="Clock Preview" width="400"/>
 </div>
 
 ### Final Product
