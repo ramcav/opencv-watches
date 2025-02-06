@@ -1,6 +1,6 @@
 # OpenCV Clock: Audemars Piguet Royal Oak 🕰️
 
-This is a simple clock made with OpenCV which replicates the Royal Oak chronograph watch. It displays the current time and updates every second.
+This is a simple clock made with OpenCV which replicates the iconic Audemars Piguet Royal Oak watch. It displays the current time and updates every second.
 
 ## Preview
 
